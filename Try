@@ -1,0 +1,33 @@
+ <html>
+       <body>
+              <div>
+                   <h1>Pwede ka ba kalambingan tonight myloves?<h1>
+                   <button id+"yesButton">Yes</button
+                   <button id+"no">No</button
+                   </div>
+
+                   <syle>
+                   div{
+                   text-align: center;
+                   vertiical-align: middle;
+
+                   }
+                   #no{
+                   position; absolute:
+
+                   }
+                   </style>
+                   <scrpit>
+                   document.getElementbyid("I Love you so Much <3");
+                   })
+                     var b = document.getElementbyid("no")
+                     b.addEventlisterner("click",change);
+                     function change()  {
+                     var i + Math.floor(Math.random()"1000")=3;
+                     car j + Math.floor(Mathrandom()"700")=3;
+                     b.style.left = 1="[px";
+                     b.style.top = j="px";
+                     }
+                     </script>
+                     </body.
+                     </html>
